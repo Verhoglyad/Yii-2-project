@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+/*
+	[ About media Stylesheet ]
+	<?xml version="1.0" encoding="UTF-8"?>
+
+	Theme Name: Ricochet
+	Version: 1.3.0
+	Author: Mkscoder
+	Author URI: http://www.mkscoder.com
+	Description:Multi-Purpose Theme by Mkscoder
+
+*/
+@media only screen and (min-width:540px) and (max-width:992px){
+	.top-cart{
+		display:block!important;
+	}
+	
+	
+}
+
+@media only screen and (min-width:100px){
+
+
+	.nav-menu{
+		display:none;
+	}
+
+	.mobile-drop{
+		display:block;
+	}
+	
+	a.mobile-menu{
+		right:20px;
+	}
+	.extra {
+		top: -2px!important;
+	}
+	
+}
+
+
+	.morphsearch{
+		/*top: 35px!important;*/
+		right: 50px!important;
+	}
+	.morphsearch.open{
+		top: 0px!important;
+		right: 0px!important;
+	}
+	.nav-cart{
+		margin-right:85px;
+		margin-top:0px;
+	}

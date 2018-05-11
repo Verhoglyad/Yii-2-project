@@ -1,0 +1,297 @@
+/*
+	[ Blue Color Stylesheet ]
+
+	Theme Name: Ricochet
+	Version: 1.3.0
+	Author: Mkscoder
+	Author URI: http://www.mkscoder.com
+	Description: Multi-Purpose Theme by Mkscoder
+
+*/
+
+.icon-spin{
+	color:#00add5;
+}
+.morphsearch {
+	background: #00add5;
+}
+.nav-menu a:hover{
+	color:#00add5;
+}
+.nav-menu a.active{
+	color:#00add5;
+}
+.main-nav > li.active > a{
+	color:#00add5;
+}
+.main-nav > li.active .dropdown-menu li.active a{
+	color:#00add5;	
+	background: #EEE;
+}
+.main-nav .dropdown-toggle .dropdown-menu li a:hover{
+	color:#00add5;
+}
+
+.about-menu-icon:hover ul li a{
+	color:#00add5;
+}
+.about-menu-icon:hover img{
+	background-color:#00add5;
+}
+#small-dialog-1 span{
+	color:#00add5;
+}
+.popup-back span{
+	color:#00add5;
+}
+.about-two-link a{
+	background-color:#00add5;
+}
+.corporate-nav-cart ul li:last-child{
+	background-color:#00add5;
+}
+.middle-left-cp ul li a:hover,
+.middle-right-cp ul li a:hover{
+	color: #00add5;
+}
+.cp-caption-desc a{
+	color:#00add5;
+}
+.portfolio-slide .slick-prev:hover, 
+.portfolio-slide .slick-prev:active, 
+.portfolio-slide .slick-prev:focus{
+	color:#00add5;
+	border:2px solid #00add5!important;
+}
+.portfolio-slide .slick-next:hover, 
+.portfolio-slide .slick-next:active, 
+.portfolio-slide .slick-next:focus{
+	color:#00add5;
+	border:2px solid #00add5!Important;
+}
+.choose-image span{
+	background:#00add5;
+}
+.testimonial-comments:hover .testimonial-comment-date{
+	color:#00add5;
+}
+.testimonial-comments:hover .blockquote{
+	background-color:#00add5;
+}
+.subscribe-left-content a{
+	color:#00add5;
+}
+.subscribe-slide .slick-prev:hover, 
+.subscribe-slide .slick-prev:active, 
+.subscribe-slide .slick-prev:focus{
+	color:#00add5;
+	border:2px solid #00add5;
+}
+.subscribe-slide .slick-next:hover, 
+.subscribe-slide .slick-next:active, 
+.subscribe-slide .slick-next:focus{
+	color:#00add5;
+	border:2px solid #00add5;
+}
+.subscribe-mail span i{
+	color:#00add5;
+}
+.subscribe-mail-btn{
+	background-color: #00add5;
+	border:1px solid #00add5;
+}
+.subscribe-mail-btn:hover,
+.subscribe-mail-btn:focus,
+.subscribe-mail-btn:active{
+	background-color: #00add5;
+	border:1px solid #00add5;
+}
+.partner-logo .slick-prev:hover, 
+.partner-logo .slick-prev:active, 
+.partner-logo .slick-prev:focus{
+	border:2px solid #00add5;
+	color:#00add5;
+}
+.partner-logo .slick-next:hover, 
+.partner-logo .slick-next:active, 
+.partner-logo .slick-next:focus{
+	border:2px solid #00add5;
+	color:#00add5;
+}
+.cbp-l-filters-work .cbp-filter-item.cbp-filter-item-active{
+	color: #00add5!important;
+}
+.cbp-l-filters-work .cbp-filter-item:hover{
+	color: #00add5!important;
+}
+.cbp-l-grid-work-title:hover{
+	color: #00add5!important;
+}
+.cbp-l-grid-work-title:hover.cbp-l-grid-work-title span{
+	border:2px solid #00add5;
+}
+.header-main-content p{
+	color:#00add5;
+}
+.blog-item-detail h2 a:hover{
+	color: #00add5;
+}
+.blog-read-more{
+	color:#00add5;
+}
+.blog-read-more:hover{
+	color:#00add5;
+}
+.right-mail-search .input-group-addon:hover{
+	background-color: #00add5;
+}
+.blog-category ul li:hover span{
+	color: #00add5!important;
+}
+.blog-tags ul li:hover{
+	background-color: #00add5;
+}
+.blog-pagination .btn-group .btn:hover {
+	background-color: #00add5;
+}
+.similar-post ul li a:hover{
+	color:#00add5;
+}
+.author-date{
+	color:#00add5;
+}
+.form-control:focus{
+	border-color: #00add5;
+}
+.contact-submit-btn{
+	background-color:#00add5;
+	border:1px solid #00add5;
+}
+.post-right-link{
+	color:#00add5;
+}
+.post-right-link:hover{
+	color:#00add5;
+}
+.post-pagination .btn-group .btn:hover {
+	background-color: #00add5;
+}
+.contact-us-info p span{
+	color:#00add5;
+}
+.contact-submit-btn-1{
+	background-color:#00add5;
+	border:1px solid #00add5;
+}
+.team-right-content a{
+	color:#00add5;
+}
+.member-content p{
+	color:#00add5;
+}
+.tab-horizontal .nav-tabs li.active a, 
+.tab-horizontal .nav-tabs li a:focus, 
+.tab-horizontal .nav-tabs li a:hover {
+	color: #00add5;
+	border: 2px solid #00add5;
+}
+.shop-home-left a{
+	color:#00add5;
+}
+.shop-home-link a:hover{
+	background-color:#00add5;
+}
+.shop-tagline {
+	background-color: #00add5;
+}
+.left-cart-content span{
+	color:#00add5;
+}
+.left-cart-total span{
+	color:#00add5;
+}
+.left-cart-link ul li a:hover{
+	background-color:#00add5;
+}
+.onsale-cart-content h6 a:hover{
+	color:#00add5;
+}
+.onsale-cart-content span{
+	color:#00add5;
+}
+.irs-diapason {
+	 background: #00add5;
+}
+.shop-pagination .btn-group .btn.active {
+	background-color: #00add5;
+}
+.shop-pagination .btn-group .btn:hover {
+	background-color: #00add5;
+}
+.caption h4{
+	color:#00add5;
+}
+.caption p{
+	color:#00add5;
+}
+.thumbnail:hover .caption p a{
+	background-color:#00add5;
+	border:1px solid #00add5;
+}
+.item-sale{
+	background-color:#00add5;
+}
+.cart-item-quantity button:hover{
+	border: 1px solid #00add5;
+	background:#00add5;
+}
+.rating-price span{
+	color:#00add5;
+}
+.cart-button a:hover{
+	background-color:#00add5;
+}
+.contact-submit-btn-2{
+	background-color:#00add5;
+	border:1px solid #00add5;
+}
+.contact-us-info-1 p span{
+	color:#00add5;
+}
+.shop-service .slick-prev:hover, 
+.shop-service .slick-prev:active, 
+.shop-service .slick-prev:focus{
+	border:2px solid #00add5!important;
+	color:#00add5;
+}
+.shop-service .slick-next:hover, 
+.shop-service .slick-next:active, 
+.shop-service .slick-next:focus{
+	border:2px solid #00add5!Important;
+	color:#00add5;
+}
+.shop-newsletter .input-group-addon {
+	background-color: #00add5;
+}
+.tab-vertical .nav-tabs li.active a, 
+.tab-vertical .nav-tabs li a:focus, 
+.tab-vertical .nav-tabs li a:hover {
+	color: #00add5;
+	border: 2px solid #00add5;
+}
+.member-detail-content a{
+	color:#00add5;
+}
+.corporate-service-content:hover .corporate-circle{
+	border:1px solid #00add5;
+	background-color:#00add5;
+}
+.corporate-content h3 a:hover{
+	color:#00add5;
+}
+.portfolio-page2 .cbp-l-filters-work .cbp-filter-item.cbp-filter-item-active{
+	color: #00add5 !important;
+}
+.corporate-blog-pagination .btn-group .btn.active{ 
+	background-color: #00add5;
+}

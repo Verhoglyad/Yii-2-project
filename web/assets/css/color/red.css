@@ -1,0 +1,302 @@
+/*
+	[ Red Color Stylesheet ]
+
+	Theme Name: Ricochet
+	Version: 1.3.0
+	Author: Mkscoder
+	Author URI: http://www.mkscoder.com
+	Description: Multi-Purpose Theme by Mkscoder
+
+*/
+
+.icon-spin{
+	color:#ce292d;
+}
+.morphsearch {
+	background: #ce292d;
+}
+.nav-menu a:hover{
+	color:#ce292d;
+}
+.nav-menu a.active{
+	color:#ce292d;
+}
+.main-nav > li.active > a{
+	color:#ce292d;
+}
+.main-nav > li.active .dropdown-menu li.active a{
+	color:#ce292d;	
+	background: #EEE;
+}
+.main-nav .dropdown-toggle .dropdown-menu li a:hover{
+	color:#ce292d;
+}
+
+.main-nav > li.active .dropdown-menu li.active a{
+	color:#ce292d;	
+	background: #EEE;
+}
+
+.about-menu-icon:hover ul li a{
+	color:#ce292d;
+}
+.about-menu-icon:hover img{
+	background-color:#ce292d;
+}
+#small-dialog-1 span{
+	color:#ce292d;
+}
+.popup-back span{
+	color:#ce292d;
+}
+.about-two-link a{
+	background-color:#ce292d;
+}
+.corporate-nav-cart ul li:last-child{
+	background-color:#ce292d;
+}
+.middle-left-cp ul li a:hover,
+.middle-right-cp ul li a:hover{
+	color: #ce292d;
+}
+.cp-caption-desc a{
+	color:#ce292d;
+}
+.portfolio-slide .slick-prev:hover, 
+.portfolio-slide .slick-prev:active, 
+.portfolio-slide .slick-prev:focus{
+	color:#ce292d;
+	border:2px solid #ce292d!important;
+}
+.portfolio-slide .slick-next:hover, 
+.portfolio-slide .slick-next:active, 
+.portfolio-slide .slick-next:focus{
+	color:#ce292d;
+	border:2px solid #ce292d!Important;
+}
+.choose-image span{
+	background:#ce292d;
+}
+.testimonial-comments:hover .testimonial-comment-date{
+	color:#ce292d;
+}
+.testimonial-comments:hover .blockquote{
+	background-color:#ce292d;
+}
+.subscribe-left-content a{
+	color:#ce292d;
+}
+.subscribe-slide .slick-prev:hover, 
+.subscribe-slide .slick-prev:active, 
+.subscribe-slide .slick-prev:focus{
+	color:#ce292d;
+	border:2px solid #ce292d;
+}
+.subscribe-slide .slick-next:hover, 
+.subscribe-slide .slick-next:active, 
+.subscribe-slide .slick-next:focus{
+	color:#ce292d;
+	border:2px solid #ce292d;
+}
+.subscribe-mail span i{
+	color:#ce292d;
+}
+.subscribe-mail-btn{
+	background-color: #ce292d;
+	border:1px solid #ce292d;
+}
+.subscribe-mail-btn:hover,
+.subscribe-mail-btn:focus,
+.subscribe-mail-btn:active{
+	background-color: #ce292d;
+	border:1px solid #ce292d;
+}
+.partner-logo .slick-prev:hover, 
+.partner-logo .slick-prev:active, 
+.partner-logo .slick-prev:focus{
+	border:2px solid #ce292d;
+	color:#ce292d;
+}
+.partner-logo .slick-next:hover, 
+.partner-logo .slick-next:active, 
+.partner-logo .slick-next:focus{
+	border:2px solid #ce292d;
+	color:#ce292d;
+}
+.cbp-l-filters-work .cbp-filter-item.cbp-filter-item-active{
+	color: #ce292d!important;
+}
+.cbp-l-filters-work .cbp-filter-item:hover{
+	color: #ce292d!important;
+}
+.cbp-l-grid-work-title:hover{
+	color: #ce292d!important;
+}
+.cbp-l-grid-work-title:hover.cbp-l-grid-work-title span{
+	border:2px solid #ce292d;
+}
+.header-main-content p{
+	color:#ce292d;
+}
+.blog-item-detail h2 a:hover{
+	color: #ce292d;
+}
+.blog-read-more{
+	color:#ce292d;
+}
+.blog-read-more:hover{
+	color:#ce292d;
+}
+.right-mail-search .input-group-addon:hover{
+	background-color: #ce292d;
+}
+.blog-category ul li:hover span{
+	color: #ce292d!important;
+}
+.blog-tags ul li:hover{
+	background-color: #ce292d;
+}
+.blog-pagination .btn-group .btn:hover {
+	background-color: #ce292d;
+}
+.similar-post ul li a:hover{
+	color:#ce292d;
+}
+.author-date{
+	color:#ce292d;
+}
+.form-control:focus{
+	border-color: #ce292d;
+}
+.contact-submit-btn{
+	background-color:#ce292d;
+	border:1px solid #ce292d;
+}
+.post-right-link{
+	color:#ce292d;
+}
+.post-right-link:hover{
+	color:#ce292d;
+}
+.post-pagination .btn-group .btn:hover {
+	background-color: #ce292d;
+}
+.contact-us-info p span{
+	color:#ce292d;
+}
+.contact-submit-btn-1{
+	background-color:#ce292d;
+	border:1px solid #ce292d;
+}
+.team-right-content a{
+	color:#ce292d;
+}
+.member-content p{
+	color:#ce292d;
+}
+.tab-horizontal .nav-tabs li.active a, 
+.tab-horizontal .nav-tabs li a:focus, 
+.tab-horizontal .nav-tabs li a:hover {
+	color: #ce292d;
+	border: 2px solid #ce292d;
+}
+.shop-home-left a{
+	color:#ce292d;
+}
+.shop-home-link a:hover{
+	background-color:#ce292d;
+}
+.shop-tagline {
+	background-color: #ce292d;
+}
+.left-cart-content span{
+	color:#ce292d;
+}
+.left-cart-total span{
+	color:#ce292d;
+}
+.left-cart-link ul li a:hover{
+	background-color:#ce292d;
+}
+.onsale-cart-content h6 a:hover{
+	color:#ce292d;
+}
+.onsale-cart-content span{
+	color:#ce292d;
+}
+.irs-diapason {
+	 background: #ce292d;
+}
+.shop-pagination .btn-group .btn.active {
+	background-color: #ce292d;
+}
+.shop-pagination .btn-group .btn:hover {
+	background-color: #ce292d;
+}
+.caption h4{
+	color:#ce292d;
+}
+.caption p{
+	color:#ce292d;
+}
+.thumbnail:hover .caption p a{
+	background-color:#ce292d;
+	border:1px solid #ce292d;
+}
+.item-sale{
+	background-color:#ce292d;
+}
+.cart-item-quantity button:hover{
+	border: 1px solid #ce292d;
+	background:#ce292d;
+}
+.rating-price span{
+	color:#ce292d;
+}
+.cart-button a:hover{
+	background-color:#ce292d;
+}
+.contact-submit-btn-2{
+	background-color:#ce292d;
+	border:1px solid #ce292d;
+}
+.contact-us-info-1 p span{
+	color:#ce292d;
+}
+.shop-service .slick-prev:hover, 
+.shop-service .slick-prev:active, 
+.shop-service .slick-prev:focus{
+	border:2px solid #ce292d!important;
+	color:#ce292d;
+}
+.shop-service .slick-next:hover, 
+.shop-service .slick-next:active, 
+.shop-service .slick-next:focus{
+	border:2px solid #ce292d!Important;
+	color:#ce292d;
+}
+.shop-newsletter .input-group-addon {
+	background-color: #ce292d;
+}
+.tab-vertical .nav-tabs li.active a, 
+.tab-vertical .nav-tabs li a:focus, 
+.tab-vertical .nav-tabs li a:hover {
+	color: #ce292d;
+	border: 2px solid #ce292d;
+}
+.member-detail-content a{
+	color:#ce292d;
+}
+.corporate-service-content:hover .corporate-circle{
+	border:1px solid #ce292d;
+	background-color:#ce292d;
+}
+.corporate-content h3 a:hover{
+	color:#ce292d;
+}
+.portfolio-page2 .cbp-l-filters-work .cbp-filter-item.cbp-filter-item-active{
+	color: #ce292d !important;
+}
+.corporate-blog-pagination .btn-group .btn.active{ 
+	background-color: #ce292d;
+}
